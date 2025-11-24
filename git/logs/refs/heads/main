@@ -1,4 +1,0 @@
-0000000000000000000000000000000000000000 b0bcd6ed731e97e0cfdce724e23e1f3a876127c9 Leon Kasovan <leonkasovan@gmail.com> 1763891673 +0700	commit (initial): Font rendering
-b0bcd6ed731e97e0cfdce724e23e1f3a876127c9 894e61499124dc93edd0f1f647c565f362c4ade1 Leon Kasovan <leonkasovan@gmail.com> 1763894912 +0700	commit: fix ttf rendering
-894e61499124dc93edd0f1f647c565f362c4ade1 135cceed21f0f0d74116f22ae051ff45cc5309d9 Leon Kasovan <leonkasovan@gmail.com> 1763895421 +0700	commit: - support font file argument
-135cceed21f0f0d74116f22ae051ff45cc5309d9 fb6affc3169623f91a76f294f855202e508f1e90 Leon Kasovan <leonkasovan@gmail.com> 1763901516 +0700	commit: add batch rendering
